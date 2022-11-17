@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  background-color: #cccccc;
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 13px;
+    background-color: rgb(43, 43, 43);
+  }
+}
+
+#submitForm{
+  color:rgb(9, 187, 27);
+  font-size: 15px;
+
+}
+
